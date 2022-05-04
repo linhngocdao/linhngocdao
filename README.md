@@ -49,7 +49,7 @@ A <b>WEB DEVELOPMENT</b> Enthusiast 🚀
 <div align="center">
 <h3>🌟 STAR THE REPOS IF YOU LIKE 🌟<br/><br/></h3>
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangxuanlam2007" alt="Xuân Lâm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangxuanlam2007" alt="Ngọc Linh" /></p>
 </div><br/>
 </a>
 
