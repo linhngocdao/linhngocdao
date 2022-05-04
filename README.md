@@ -35,11 +35,7 @@ A <b>WEB DEVELOPMENT</b> Enthusiast 🚀
 # My activities
 
 <div align="center">
-<a href="https://github.com/hoangxuanlam2007">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=hoangxuanlam2007&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
-<a href="https://github.com/hoangxuanlam2007">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangxuanlam2007&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+
 
 <div>
   <img src="https://raw.githubusercontent.com/hoangxuanlam2007/hoangxuanlam2007/main/snake.svg" alt="snake"></center>
