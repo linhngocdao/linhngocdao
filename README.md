@@ -55,4 +55,4 @@ A <b>WEB DEVELOPMENT</b> Enthusiast 🚀
 
 ------
 
-**Author: [Ngọc Linh](https://github.com/hoangxuanlam2007)**
+**Author: [Ngọc Linh](https://github.com/linhngocdao)**
