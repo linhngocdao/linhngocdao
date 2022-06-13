@@ -4,7 +4,7 @@
 A <b>WEB DEVELOPMENT</b> Enthusiast 🚀
 
 >Oh, btw, I already have a girlfriend 🙂.<br/>
-> Her Facebook [(Click me)](https://www.facebook.com/ling352).
+>  Facebook [(Click me)](https://www.facebook.com/ling352).
 - I'm just a student, who likes anime and enthusiastic about technology like **coding** or **designing** and even **editing** stuffs, but really lazy `¯\_(ツ)_/¯`.
 - 🌱 I’m currently exploring ReactJS with a big interest in Back-End and I'm looking forward to becoming a Full-Stack Developer. 
 - 🤔 My interest lies in Front-End Web Development.
