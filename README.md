@@ -6,12 +6,12 @@
 </div>
 </div>
 
-## Hi there, I'm Khoa Nguyen - aka yunkhngn 👋 
+# Hi there, I'm Linh Dao - LiDev 👋 
 
+[![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/ling352)](https://www.facebook.com/)<br>
 ![](https://komarev.com/ghpvc/?username=linhngocdao&label=PROFILE+VIEWS)
-[![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/ling352)](https://www.facebook.com/)
 
-# I'm a Front-end 
+### I'm a Front-end 
 
 - 👋 Hello, I'm Linh Dao, as known as Bin.
 - 👀 Currently i'm a front end developer.
@@ -50,7 +50,7 @@
 <br />
 <a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&hide=css&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhngocdao&layout=compact)](https://github.com/linhngocdao)
 </a>
 
 <br>
