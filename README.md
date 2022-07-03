@@ -1,9 +1,10 @@
 <h1 align="center">   Hi, I'm Đào Ngọc Linh or you can call me "Linh dev" 👋<br/></h1> 
      
 <img align="right"  width="115px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
+![](https://komarev.com/ghpvc/?username=linhngocdao&label=PROFILE+VIEWS)
 A <b>WEB DEVELOPMENT</b> Enthusiast 🚀
 
->  Facebook [(Click me)](https://www.facebook.com/ling352).
+>  Facebook me [(Click me)](https://www.facebook.com/ling352).
 - 🌱 I’m currently exploring ReactJS with a big interest in Back-End and I'm looking forward to becoming a Full-Stack Developer. 
 - 🤔 My interest lies in Front-End Web Development.
 - 💬 Ask me about anything, I'd love to answer!
@@ -51,5 +52,5 @@ A <b>WEB DEVELOPMENT</b> Enthusiast 🚀
 ------
 
 **Author: [Ngọc Linh](https://github.com/linhngocdao)**
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![](https://komarev.com/ghpvc/?username=linhngocdao&label=PROFILE+VIEWS)
+
+
