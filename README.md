@@ -2,7 +2,6 @@
      
 <img align="right"  width="115px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
 A <b>WEB DEVELOPMENT</b> Enthusiast 🚀
-![](https://komarev.com/ghpvc/?username=linhngocdao)
 
 >  Facebook [(Click me)](https://www.facebook.com/ling352).
 - 🌱 I’m currently exploring ReactJS with a big interest in Back-End and I'm looking forward to becoming a Full-Stack Developer. 
@@ -53,3 +52,4 @@ A <b>WEB DEVELOPMENT</b> Enthusiast 🚀
 
 **Author: [Ngọc Linh](https://github.com/linhngocdao)**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=linhngocdao&label=PROFILE+VIEWS)
