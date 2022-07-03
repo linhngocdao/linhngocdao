@@ -44,13 +44,20 @@ A <b>WEB DEVELOPMENT</b> Enthusiast 🚀
 </div><br/>
 
 <div align="center">
-<h3>🌟 STAR THE REPOS IF YOU LIKE 🌟<br/><br/></h3>
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangxuanlam2007" alt="Ngọc Linh" /></p>
-</div><br/>
-</a>
 
-------
+
+<div>
+ <div align="center">
+
+
+<div>
+  <img src="https://raw.githubusercontent.com/hoangxuanlam2007/hoangxuanlam2007/main/snake.svg" alt="snake"></center>
+</div>
+</div><br/>
+</div>
+</div><br/>
+
+
 
 **Author: [Ngọc Linh](https://github.com/linhngocdao)**
 
