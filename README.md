@@ -39,7 +39,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 ### Something
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
