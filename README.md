@@ -6,7 +6,7 @@
 </div>
 </div>
 
-# Hi there, I'm Linh Dao - LiDev 👋 
+# Hi there, I'm Linh Dao - Ling Dev 👋 
 
 [![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/ling352)](https://www.facebook.com/)<br>
 ![](https://komarev.com/ghpvc/?username=linhngocdao&label=PROFILE+VIEWS)
