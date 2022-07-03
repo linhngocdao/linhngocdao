@@ -1,8 +1,10 @@
 <div align="center">
-  <div>
-![dino](https://res.cloudinary.com/assignment22/image/upload/v1656862542/front-end-developers-openings_680x428_f5hyez.gif)
-   </div>
+
+
+<div>
+  <img src="https://res.cloudinary.com/assignment22/image/upload/v1656862542/front-end-developers-openings_680x428_f5hyez.gif" alt="snake"></center>
 </div>
+</div><br/>
 ### Hi there, I'm Linh Dao - Bin 👋 
 
 ![](https://komarev.com/ghpvc/?username=linhngocdao&label=PROFILE+VIEWS)
