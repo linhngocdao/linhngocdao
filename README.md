@@ -1,63 +1,45 @@
-<h1 align="center">   Hi, I'm Đào Ngọc Linh or you can call me "Linh dev" 👋<br/></h1> 
-     
-<img align="right"  width="85px" alt="GIF" src="https://res.cloudinary.com/assignment22/image/upload/v1656862542/front-end-developers-openings_680x428_f5hyez.gif"  />
+![dino](https://res.cloudinary.com/assignment22/image/upload/v1656862542/front-end-developers-openings_680x428_f5hyez.gif)
 
-A <b>WEB DEVELOPMENT</b> Enthusiast 🚀
-
-- 💬 Facebook me [(Click me)](https://www.facebook.com/ling352).
-- [![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/ling352)](https://www.facebook.com/ling352)
-- 📫 Email me at [daongoclinh22@gmail.com](mailto:daongoclinh22@gmail.com).
-- 🌱 I’m currently exploring ReactJS with a big interest in Back-End and I'm looking forward to becoming a Full-Stack Developer. 
-- 🤔 My interest lies in Front-End Web Development.
-
-
-### What I'm currently learning 📓:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-
-### What I've mastered 📘:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+### Hi there, I'm Linh Dao - Bin 👋 
 
 ![](https://komarev.com/ghpvc/?username=linhngocdao&label=PROFILE+VIEWS)
-------
+[![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/ling352)](https://www.facebook.com/)
 
-# My activities
+## I'm a Front-end 
 
-<div align="center">
+- 👋 Hello, I'm Linh Dao, as known as Bin.
+- 👀 Currently i'm a front end developer.
+- 🌱 I use languages Javascript 
+- ☕ And some of popular framework such as React, Nextjs, Angular 
+- 📫 Email me at [daongoclinh22@gmail.com](mailto:daongoclinh22@gmail.com).
 
+<br />
 
-<div>
-  <img src="https://raw.githubusercontent.com/hoangxuanlam2007/hoangxuanlam2007/main/snake.svg" alt="snake"></center>
-</div>
-</div><br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linhngocdao&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-<div align="center">
+---
+### Languages and Tools:
 
-
-<div>
- <div align="center">
-
-
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhngocdao&layout=compact)](https://github.com/linhngocdao)
-
-</div><br/>
+I mostly use these language as a Front-end Web Developer.
 
 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-**Author: [Ngọc Linh](https://github.com/linhngocdao)**
+<br />
+<br />
+<a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunkhngn&hide=css&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</a>
 
+<br>
