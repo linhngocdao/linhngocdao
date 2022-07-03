@@ -5,7 +5,7 @@
   <img src="https://res.cloudinary.com/assignment22/image/upload/v1656862542/front-end-developers-openings_680x428_f5hyez.gif" alt="snake"></center>
 </div>
 </div><br/>
-### Hi there, I'm Linh Dao - Bin 👋 
+<h1 align="center">   Hi, I'm Đào Ngọc Linh or you can call me "Linh dev" 👋<br/></h1> 
 
 ![](https://komarev.com/ghpvc/?username=linhngocdao&label=PROFILE+VIEWS)
 [![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/ling352)](https://www.facebook.com/)
