@@ -4,11 +4,11 @@
 
 A <b>WEB DEVELOPMENT</b> Enthusiast 🚀
 
->  Facebook me [(Click me)](https://www.facebook.com/ling352).
+- 💬 Facebook me [(Click me)](https://www.facebook.com/ling352).
+- 📫 Email me at [daongoclinh22@gmail.com](mailto:daongoclinh22@gmail.com).
 - 🌱 I’m currently exploring ReactJS with a big interest in Back-End and I'm looking forward to becoming a Full-Stack Developer. 
 - 🤔 My interest lies in Front-End Web Development.
-- 💬 Ask me about anything, I'd love to answer!
-- 📫 Email me at [daongoclinh22@gmail.com](mailto:daongoclinh22@gmail.com).
+
 
 ### What I'm currently learning 📓:
 
