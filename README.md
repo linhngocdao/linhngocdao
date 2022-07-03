@@ -1,5 +1,6 @@
+<div align="center">
 ![dino](https://res.cloudinary.com/assignment22/image/upload/v1656862542/front-end-developers-openings_680x428_f5hyez.gif)
-
+</div>
 ### Hi there, I'm Linh Dao - Bin 👋 
 
 ![](https://komarev.com/ghpvc/?username=linhngocdao&label=PROFILE+VIEWS)
