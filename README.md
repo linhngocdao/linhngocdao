@@ -51,9 +51,7 @@ A <b>WEB DEVELOPMENT</b> Enthusiast 🚀
 
 
 <div>
-  <img src="https://raw.githubusercontent.com/hoangxuanlam2007/hoangxuanlam2007/main/snake.svg" alt="snake"></center>
-</div>
-</div><br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </div><br/>
 
