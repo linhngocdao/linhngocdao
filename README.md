@@ -1,6 +1,6 @@
 <h1 align="center">   Hi, I'm Đào Ngọc Linh or you can call me "Linh dev" 👋<br/></h1> 
      
-<img align="right"  width="85px" alt="GIF" src="![image](https://user-images.githubusercontent.com/103157819/177046730-96f87b72-a0cb-4647-9709-40324c6bf574.png)"  />
+<img align="right"  width="85px" alt="GIF" src="https://res.cloudinary.com/assignment22/image/upload/v1656862542/front-end-developers-openings_680x428_f5hyez.gif"  />
 
 A <b>WEB DEVELOPMENT</b> Enthusiast 🚀
 
