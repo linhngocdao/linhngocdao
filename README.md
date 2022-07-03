@@ -8,7 +8,7 @@
 
 # Hi there, I'm Linh Dao - Ling Dev 👋 
 
-[![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/ling352)](https://www.facebook.com/)<br>
+[![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/ling352)](https://www.facebook.com/ling352)<br>
 ![](https://komarev.com/ghpvc/?username=linhngocdao&label=PROFILE+VIEWS)
 
 ### I'm a Front-end 
@@ -18,6 +18,7 @@
 - 🌱 I use languages Javascript 
 - ☕ And some of popular framework such as React, Nextjs, Angular 
 - 📫 Email me at [daongoclinh22@gmail.com](mailto:daongoclinh22@gmail.com).
+- 💬 Facebook me [(Click me)](https://www.facebook.com/ling352).
 
 <br />
 
