@@ -1,5 +1,7 @@
 <div align="center">
+  <div>
 ![dino](https://res.cloudinary.com/assignment22/image/upload/v1656862542/front-end-developers-openings_680x428_f5hyez.gif)
+   </div>
 </div>
 ### Hi there, I'm Linh Dao - Bin 👋 
 
