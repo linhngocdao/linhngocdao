@@ -1,11 +1,9 @@
-<h1 align="center">   Hi, I'm Ngọc Linh or you can call me "Bin" 👋<br/></h1> 
+<h1 align="center">   Hi, I'm Đào Ngọc Linh or you can call me "Linh dev" 👋<br/></h1> 
      
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 A <b>WEB DEVELOPMENT</b> Enthusiast 🚀
 
->Oh, btw, I already have a girlfriend 🙂.<br/>
 >  Facebook [(Click me)](https://www.facebook.com/ling352).
-- I'm just a student, who likes anime and enthusiastic about technology like **coding** or **designing** and even **editing** stuffs, but really lazy `¯\_(ツ)_/¯`.
 - 🌱 I’m currently exploring ReactJS with a big interest in Back-End and I'm looking forward to becoming a Full-Stack Developer. 
 - 🤔 My interest lies in Front-End Web Development.
 - 💬 Ask me about anything, I'd love to answer!
