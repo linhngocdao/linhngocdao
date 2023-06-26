@@ -27,10 +27,5 @@ I'm Linh from VietNam, and I do content on Design and Development. I really enjo
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xnguyenvanlinh&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xnguyenvanlinh&&theme=xcode)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xnguyenvanlinh&&theme=tokyonight)  
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linhngocdao&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linhngocdao&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  
