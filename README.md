@@ -14,7 +14,8 @@ I'm Linh from VietNam, and I do content on Design and Development. I really enjo
 
 - 💬 Ask me about **HTML, CSS**
 
-- 📫 How to reach me **dnlinh.dev@gmail.com** <br>
+- 📫 How to reach me **dnlinh.dev@gmail.com** <br> <br> <br>
+ [![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/ling352)](https://www.facebook.com/ling352) <br> <br> <br> 
    ![](https://komarev.com/ghpvc/?username=linhngocdao&label=PROFILE+VIEWS)
 
 <h3 align="left">Connect with me:</h3>
