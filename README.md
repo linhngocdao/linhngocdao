@@ -15,17 +15,15 @@ I'm Linh from VietNam, and I do content on Design and Development. I really enjo
 - 💬 Ask me about **HTML, CSS**
 
 - 📫 How to reach me **dnlinh.dev@gmail.com** <br> <br> <br>
- [![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/ling352)](https://www.facebook.com/ling352) <br> <br> <br> 
-   ![](https://komarev.com/ghpvc/?username=linhngocdao&label=PROFILE+VIEWS)
+ ![](https://komarev.com/ghpvc/?username=linhngocdao&label=PROFILE+VIEWS)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/linhngocdao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="daongoclinh" height="30" width="40" /></a>
-<a href="https://dev.to/xnguyenvanlinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xnguyenvanlinh" height="30" width="40" /></a>
-<a href="https://twitter.com/xnguyenvanlinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xnguyenvanlinh" height="30" width="40" /></a>
+<a href="https://twitter.com/linhdaongoc.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xnguyenvanlinh" height="30" width="40" /></a>
 <a href="https://codesandbox.com/xnguyenvanlinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="xnguyenvanlinh" height="30" width="40" /></a>
-<a href="https://fb.com/xnguyenvanlinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xnguyenvanlinh" height="30" width="40" /></a>
-<a href="https://instagram.com/xnguyenvanlinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xnguyenvanlinh" height="30" width="40" /></a>
+<a href="https://fb.com/dnlinh.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dnlinh.dev" height="30" width="40" /></a>
+<a href="https://instagram.com/linhdaongoc.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="linhdaongoc.02" height="30" width="40" /></a>
 </p>
 
 
