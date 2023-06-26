@@ -24,7 +24,7 @@ I'm Linh from VietNam, and I do content on Design and Development. I really enjo
 <a href="https://discord.gg/sG3uVdkV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="linhdaongoc" height="30" width="40" /></a>
 <a href="https://fb.com/dnlinh.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dnlinh.dev" height="30" width="40" /></a>
 <a href="https://instagram.com/linhdaongoc.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="linhdaongoc.02" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/linhdaongoc" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in.svg" alt="linhdaongoc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/linhdaongoc" target="blank"><img align="center" src="https://res.cloudinary.com/dzxys87wo/image/upload/v1687770102/git/linked-in_btuues.svg" alt="linhdaongoc" height="30" width="40" /></a>
 </p>
 
 
