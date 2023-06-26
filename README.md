@@ -24,9 +24,7 @@ I'm Linh from VietNam, and I do content on Design and Development. I really enjo
 <a href="https://discord.gg/sG3uVdkV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="linhdaongoc" height="30" width="40" /></a>
 <a href="https://fb.com/dnlinh.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dnlinh.dev" height="30" width="40" /></a>
 <a href="https://instagram.com/linhdaongoc.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="linhdaongoc.02" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/%C4%91%C3%A0o-ng%E1%BB%8Dc-linh-007a1527b/" target="blank"><img align="center" src="<svg viewBox="0 0 128 128">
-<g id="original"><path fill="#0076b2" d="M116,3H12a8.91,8.91,0,0,0-9,8.8V116.22A8.91,8.91,0,0,0,12,125H116a8.93,8.93,0,0,0,9-8.81V11.77A8.93,8.93,0,0,0,116,3Z"></path><path fill="#fff" d="M21.06,48.73H39.17V107H21.06Zm9.06-29a10.5,10.5,0,1,1-10.5,10.49,10.5,10.5,0,0,1,10.5-10.49"></path><path fill="#fff" d="M50.53,48.73H67.89v8h.24c2.42-4.58,8.32-9.41,17.13-9.41C103.6,47.28,107,59.35,107,75v32H88.89V78.65c0-6.75-.12-15.44-9.41-15.44s-10.87,7.36-10.87,15V107H50.53Z"></path></g>
-</svg>" alt="linhdaongoc.02" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/linhdaongoc" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in.svg" alt="linhdaongoc.02" height="30" width="40" /></a>
 </p>
 
 
