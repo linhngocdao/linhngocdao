@@ -19,7 +19,7 @@ I'm Linh from VietNam, and I do content on Design and Development. I really enjo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.linkedin.com/in/linhdaongoc" target="blank"><img align="center" src="https://res.cloudinary.com/dzxys87wo/image/upload/v1687770102/git/linked-in_btuues.svg" alt="linkedin" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/linhdaongoc" target="blank"><img align="center" src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" height="30" width="40" /></a>
 <a href="https://codepen.io/linhngocdao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="daongoclinh" height="30" width="40" /></a>
 <a href="https://twitter.com/linhdaongoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="linhdaongoc" height="30" width="40" /></a>
 <a href="https://discord.gg/sG3uVdkV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="linhdaongoc" height="30" width="40" /></a>
